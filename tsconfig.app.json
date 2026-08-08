@@ -1,0 +1,19 @@
+{
+  "extends": "./tsconfig.json",
+  "files": [
+    "src/vite-env.d.ts",
+    "src/main.tsx",
+    "src/App.tsx",
+    "src/components/McqInputPanel.tsx",
+    "src/components/McqPreview.tsx",
+    "src/components/ParsedMcqList.tsx",
+    "src/components/WarningPanel.tsx",
+    "src/lib/mathFallback.ts",
+    "src/lib/mcqParser.ts",
+    "src/lib/mcqTemplate.ts",
+    "src/lib/pptxExport.ts",
+    "src/lib/repairOcrText.ts",
+    "src/lib/textConvert.ts"
+  ],
+  "include": []
+}

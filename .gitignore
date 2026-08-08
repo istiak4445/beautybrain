@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.npm-cache/
+.DS_Store
+*.tsbuildinfo
+
+# Local reference images kept outside the app assets folder
+/Picture 1.png
+/chshifu-Asset-1-1.png
+/chshifu-Asset-1-1 bnw copy.png
